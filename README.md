@@ -28,3 +28,4 @@ It is about how people should behave to produce a robust web application. Sooo e
 ### Tech debt
 
 5%
+ 
