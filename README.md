@@ -27,7 +27,8 @@ It is about how people should behave to produce a robust web application. Sooo e
 
 ### Tech debt
 
-That 5% of resources.
+- that 5% of resources
+- invest in the error-free future
 
 ### Some viktor utopia
 
