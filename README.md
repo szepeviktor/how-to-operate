@@ -33,6 +33,6 @@ It is about how people should behave to produce a robust web application. Sooo e
 ### Some viktor utopia
 
 - Joy vs. work.
-- Loving standards: The nut fits to the bolt. Connecting different people.
+- Loving standards: The nut fits the bolt. Connecting different people.
 
 _It feels so gooood to have this repository 😌 one can write down everything without mentioning names._
