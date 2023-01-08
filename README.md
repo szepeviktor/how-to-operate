@@ -30,6 +30,11 @@ It is about how people should behave to produce a robust web application. Sooo e
 - that 5% of resources
 - invest in error-free future
 
+### 📢 "The defendant says"
+
+- _I don't have that amount of money!_
+- _I need only 1 developer._
+
 ### Some viktor utopia
 
 - Joy vs. work.
