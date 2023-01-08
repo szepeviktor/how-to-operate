@@ -27,7 +27,7 @@ It is about how people should behave to produce a robust web application. Sooo e
 
 ### Tech debt
 
-- that 5% of resources
+- that 5% of resources meaning 1 day per month paying back technical debt
 - invest in error-free future
 
 ### 📢 "The defendant says"
@@ -38,7 +38,7 @@ It is about how people should behave to produce a robust web application. Sooo e
 ### Some viktor utopia
 
 - Joy vs. work.
-- Adjust your feelings to reality. Be happy (and use) about really great things.
+- Adjust your feelings to reality. Be happy about (and use) really great things.
 - Loving standards: The nut fits the bolt. Connecting different people.
 
 _It feels so gooood to have this repository 😌 one can write down everything without mentioning names._
