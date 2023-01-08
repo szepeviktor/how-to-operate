@@ -32,4 +32,7 @@ It is about how people should behave to produce a robust web application. Sooo e
 
 ### Some viktor utopia
 
-Joy vs. work.
+- Joy vs. work.
+- Loving standards
+
+_It feels so gooood to have this repository 😌 one can write down everything without mentioning the names._
