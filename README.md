@@ -27,6 +27,8 @@ It is about how people should behave to produce a robust web application. Sooo e
 
 ### Tech debt
 
+Question number one: _Is this project worth being proactive?_ (or just be reactive)
+
 - that 5% of resources meaning 1 day per month paying back technical debt
 - invest in error-free future
 
