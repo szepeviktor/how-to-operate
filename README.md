@@ -18,7 +18,7 @@ It is about how people should behave to produce a robust web application. Sooo e
 ### Tools
 
 - division of labour (everything should have a master, no orphaned things)
-- documentation on service provider accounts
+- [documentation](https://youtu.be/F69Mx5LhZ4A?t=372) on service provider accounts
 - documentation on architecture of the application
 - documentation on testing
 - documentation on company procedures (e.g. employee onboarding or termination)
