@@ -6,7 +6,7 @@ It is about how people should behave to produce a robust web application. Sooo e
 
 :bulb: _Every sentence is based on a true story._
 
-### Resources
+## Resources
 
 - a vision
 - leadership skills
@@ -15,7 +15,7 @@ It is about how people should behave to produce a robust web application. Sooo e
 - funds
 - specialized service providers
 
-### Tools
+## Tools
 
 - division of labour (everything should have a master, no orphaned things)
 - [documentation](https://youtu.be/F69Mx5LhZ4A?t=372) on service provider accounts
@@ -25,19 +25,25 @@ It is about how people should behave to produce a robust web application. Sooo e
 - style guide/brand guidelines
 - internal communication regulation
 
-### Tech debt
+## Tech debt
 
 Question number one: _Is this project worth being proactive?_ (or just be reactive)
 
 - that 5% of resources meaning 1 day per month paying back technical debt
 - invest in error-free future
 
-### 📢 "The defendant says"
+## 📢 "The defendant says"
 
 - _I don't have that amount of money!_
 - _I need only 1 developer._
 
-### Some viktor utopia
+## Naming things
+
+Once you give a thing an uninformative name you are ready to start.
+Learn more about the thing you have named.
+When you know that thing really well and can control it you will find its name.
+
+## Some viktor utopia
 
 - Joy vs. work.
 - Adjust your feelings to reality. Be happy about (and use) really great things.
