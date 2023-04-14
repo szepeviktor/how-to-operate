@@ -1,5 +1,7 @@
 # How to operate??
 
+[![theories](https://img.shields.io/badge/more-theories-purple)](https://github.com/stars/szepeviktor/lists/theory)
+
 I'm planning to restrict my hot stuff on web application manufacturing to this repository only.
 
 It is about how people should behave to produce a robust web application. Sooo emotional!! May hurt your pride.
