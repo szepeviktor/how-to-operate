@@ -41,13 +41,18 @@ Question number one: _Is this project worth being proactive?_ (or just be reacti
 
 ## Naming things
 
-Once you give a thing an uninformative name you are ready to start.
+Once you give a thing an [uninformative name](https://github.com/szepeviktor/uninformative-words) you are ready to start.
 Learn more about the thing you have named.
-When you know that thing really well and can control it you will find its name.
+When you know that thing really well and can control it, you will find its real name.
+
+## Listening to Viktor
+
+1. If you listen to me, you can avoid bugs throughout the lifecycle of your web application.
+2. If you don't listen to me, in a few months you'll find out that the bugs I've pointed out to you are the ones that are causing the damage.
 
 ## Some viktor utopia
 
-- Joy vs. work.
+- Joy of work vs. money.
 - Adjust your feelings to reality. Be happy about (and use) really great things.
 - Loving standards: The nut fits the bolt. Connecting different people.
 
